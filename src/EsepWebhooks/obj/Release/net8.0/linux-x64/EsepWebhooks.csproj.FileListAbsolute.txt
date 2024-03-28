@@ -1,0 +1,17 @@
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\EsepWebhooks.deps.json
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\EsepWebhooks.runtimeconfig.json
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\EsepWebhooks.dll
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\EsepWebhooks.pdb
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.csproj.AssemblyReference.cache
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.AssemblyInfoInputs.cache
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.AssemblyInfo.cs
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.csproj.CoreCompileInputs.cache
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebh.7BEA1777.Up2Date
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.dll
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\refint\EsepWebhooks.dll
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.pdb
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\EsepWebhooks.genruntimeconfig.cache
+C:\Users\Alexa Szafranski\EsepWebhooks\src\EsepWebhooks\obj\Release\net8.0\linux-x64\ref\EsepWebhooks.dll
