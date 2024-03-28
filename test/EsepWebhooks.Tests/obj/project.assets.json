@@ -7206,11 +7206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\test\\EsepWebhooks.Tests\\EsepWebhooks.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\test\\EsepWebhooks.Tests\\EsepWebhooks.Tests.csproj",
       "projectName": "EsepWebhooks.Tests",
-      "projectPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\test\\EsepWebhooks.Tests\\EsepWebhooks.Tests.csproj",
+      "projectPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\test\\EsepWebhooks.Tests\\EsepWebhooks.Tests.csproj",
       "packagesPath": "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\test\\EsepWebhooks.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\test\\EsepWebhooks.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexa Szafranski\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7225,8 +7225,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\src\\EsepWebhooks\\EsepWebhooks.csproj": {
-              "projectPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\src\\EsepWebhooks\\EsepWebhooks.csproj"
+            "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\src\\EsepWebhooks\\EsepWebhooks.csproj": {
+              "projectPath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\src\\EsepWebhooks\\EsepWebhooks.csproj"
             }
           }
         }
