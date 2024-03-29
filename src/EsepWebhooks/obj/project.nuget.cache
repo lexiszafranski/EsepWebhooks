@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E5mnRdew027gn/nNtUOEA2SpkYHNCoEkPB/SNFE2XvosVi1/19vKjGi+7g+JcOscccwl3AV6Jb4JTw51+a2yKw==",
+  "dgSpecHash": "wc7CvVsb/ZJy64tmfxgrnniBLIKO1/+US8c5VYKxQg61HA8/oO0nTTYf8ALHYpv6Nw0nZAw7nauEUEi8g2ef/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexa Szafranski\\EsepWebhooks\\esep-webhooks\\src\\EsepWebhooks\\EsepWebhooks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
-    "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512"
+    "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
