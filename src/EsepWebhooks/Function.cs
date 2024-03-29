@@ -1,6 +1,5 @@
 using System.Text;
 using Amazon.Lambda.Core;
-using Newtonsoft.Json;
 using System.Net.Http; // Ensure this using directive is present for HttpClient
 using System.IO; // For StreamReader
 
